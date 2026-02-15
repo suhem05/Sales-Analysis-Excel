@@ -86,7 +86,7 @@ This allows dynamic filtering of all visualizations.
 ---
 
 ## 📸 Dashboard Preview
-<img width="1917" height="1019" alt="Screenshot 2026-02-15 215009" src="https://github.com/user-attachments/assets/8663d798-2eab-41c6-820e-7d9c498c605e" />
+<img width="1917" height="958" alt="Screenshot 2026-02-15 215009" src="https://github.com/user-attachments/assets/b09f1a5c-2bf5-453a-9012-88992e63ef86" />
 
 ---
 
